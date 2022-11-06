@@ -1,0 +1,30 @@
+[
+    {
+        "model": "restapi.animal",
+        "pk": 1,
+        "fields": {
+            "name": "Bear"
+        }
+    },
+    {
+        "model": "restapi.animal",
+        "pk": 2,
+        "fields": {
+            "name": "Tiger"
+        }
+    },
+    {
+        "model": "restapi.animal",
+        "pk": 3,
+        "fields": {
+            "name": "Snake"
+        }
+    },
+    {
+        "model": "restapi.animal",
+        "pk": 4,
+        "fields": {
+            "name": "Donkey"
+        }
+    }
+]
